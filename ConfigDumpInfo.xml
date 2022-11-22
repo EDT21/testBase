@@ -3,13 +3,15 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.Номенклатура" id="4c6cc508-55d2-4f2b-adca-964c9a50cf0e" configVersion="16be04120aab3f44b73869aa5ff8cc8400000000"/>
 		<Metadata name="Configuration.Конфигурация" id="e7fb21e2-df34-499a-a553-8f6ba88d0da6" configVersion="ff4c2201c491ca488c25a92d6406a8be00000000"/>
-		<Metadata name="Document.РасходнаяНакладная" id="beb9e73e-440d-4c2a-9416-b1f518b181a0" configVersion="5f31abbbc99f4c4092d166fad88b950500000000">
+		<Metadata name="Document.РасходнаяНакладная" id="beb9e73e-440d-4c2a-9416-b1f518b181a0" configVersion="0a3e0e3e5abd584d92ca5682c7b4e09400000000">
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="1a7e6cbb-c1d9-44bd-adb8-9dc106349047"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Сумма" id="790d727b-45cb-444d-9631-bbd196c5ab54"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="b8394082-c90e-417e-b0ee-68e0cf6fc294"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары" id="ca4da58e-bda0-4c0a-8ecf-2891d602f7d5"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="f34b78dd-74cb-4909-85cb-b0f8d0a6ea5d"/>
 		</Metadata>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="966259fc-0d2d-4ced-9502-76884cb2d18e" configVersion="a7b4fc435cccf041a454c538e8585b4500000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="966259fc-0d2d-4ced-9502-76884cb2d18e.0" configVersion="27ebd1df25b84a43b0dce8767aa0ec7c00000000"/>
 		<Metadata name="Language.Русский" id="b6c24a7c-c315-4b70-9061-a0fa981b677a" configVersion="9a71b6203b5c4243949e60e72bd37c5600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
